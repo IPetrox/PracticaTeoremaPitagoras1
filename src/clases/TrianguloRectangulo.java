@@ -12,7 +12,7 @@ public class TrianguloRectangulo {
 	 * @param b
 	 * @param c
 	 */
-	public TrianguloRectangulo(double a, double b, double c) {
+	public TrianguloRectangulo() {
 		this.a = 1;
 		this.b = 1;
 		this.c = this.hipotenusa();

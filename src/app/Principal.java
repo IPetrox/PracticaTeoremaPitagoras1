@@ -1,5 +1,7 @@
 package app;
 
+import clases.TrianguloRectangulo;
+
 public class Principal {
 
 	public static void main(String[] args) {
